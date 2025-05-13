@@ -94,5 +94,3 @@ Este projeto está licenciado sob a **GNU GPL**. Consulte o arquivo [LICENSE](LI
 Desenvolvido por **Andy**
 GitHub: [@Vousmeandy](https://github.com/Vousmeandy)
 
-
-Se quiser, posso também gerar a versão em inglês ou criar um layout em Markdown estilizado para publicação em sites como Dev.to ou LinkedIn. Deseja isso?
